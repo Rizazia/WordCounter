@@ -28,7 +28,7 @@ public class WordCounter extends Application {
         
         primaryStage.getIcons().add(new Image("/img/icon.png"));
         primaryStage.setScene(scene);
-        primaryStage.setTitle("Bug Tracker");
+        primaryStage.setTitle("Word Counter");
         primaryStage.show();
         
         //end of program procedure
